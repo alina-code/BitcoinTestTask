@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bitcoin</title>
+</head>
+<body>
+<div   style="text-align: center ;">
+<h1>Please log in or register!</h1>
+<h3 style="color: red"> <%= option%> </h3>
+<form method='post' action='/login'>
+    User Name or Email: <input type='text' name='username' minlength="4" maxlength="30" required /><br/><br/>
+    Password: <input type='password' name='password' minlength="4" maxlength="20" required/><br/><br/>
+    <input type='submit' value='Login'/><br/><br/>
+    </form>
+
+</form>
+<a href="/register">I Dont have account yet!</a>
+</div>
+</body>
+</html>

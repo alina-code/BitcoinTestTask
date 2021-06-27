@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CREDENTIALS>
+  <USER>
+    <USERNAME>Alina</USERNAME>
+    <EMAIL>alinstart68@gmail.com</EMAIL>
+    <PASSWORD>1234</PASSWORD>
+  </USER>
+  <USER>
+    <USERNAME>Sasha</USERNAME>
+    <EMAIL>sasha@gmail.com</EMAIL>
+    <PASSWORD>4321</PASSWORD>
+  </USER>
+  <USER>
+    <USERNAME>Masha</USERNAME>
+    <EMAIL>masha@gmail.com</EMAIL>
+    <PASSWORD>2121</PASSWORD>
+  </USER>
+  <USER>
+    <USERNAME>_st_alina_</USERNAME>
+    <EMAIL>alinstart68@gmail.co</EMAIL>
+    <PASSWORD>1010</PASSWORD>
+  </USER>
+  <USER>
+    <USERNAME>Alinochka</USERNAME>
+    <EMAIL>alinstart6l.com</EMAIL>
+    <PASSWORD>909090</PASSWORD>
+  </USER>
+</CREDENTIALS>
